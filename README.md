@@ -1,3 +1,11 @@
+### Hi there 👋
+
+- :man_student: I am a high school student and database branch student.
+- :child::man_technologist: I met the software at a young age.
+- :seedling: I try to be an expert at Node.JS or Full Stack Developer _(Mostly Back-End and DB)_
+- I ❤️ Horizon Theme in VSC
+- :stop_sign: All Repositories Private _(I Will Make a public soon)_
+
 ![Javascript](https://img.shields.io/badge/Javascript-1c1e26?style=flat&logo=Javascript&logoColor=e95379)&nbsp;
 ![Python](https://img.shields.io/badge/Python-1c1e26?style=flat&logo=Python&logoColor=e95379)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-1c1e26?style=flat&logo=Dart&logoColor=e95379)&nbsp;
@@ -12,6 +20,7 @@
 ![MSSQL](https://img.shields.io/badge/MSSQL-1c1e26?style=flat&logo=microsoft-sql-server&logoColor=e95379)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MYSQL-1c1e26?style=flat&logo=mysql&logoColor=e95379)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-1c1e26?style=flat&logo=MongoDB&logoColor=e95379)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-1c1e26?style=flat&logo=Redis&logoColor=e95379)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-1c1e26?style=flat&logo=HTML5&logoColor=e95379)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1c1e26?style=flat&logo=CSS3&logoColor=e95379)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-1c1e26?style=flat&logo=SASS&logoColor=e95379)&nbsp;
