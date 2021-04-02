@@ -1,11 +1,12 @@
-### Hi there 👋
+### 👋 Hi there 
 
 - :man_student: I am a high school student and database branch student.
 - :child::man_technologist: I met the software at a young age.
 - :seedling: I try to be an expert at Node.JS or Full Stack Developer _(Mostly Back-End and DB)_
 - I ❤️ Horizon Theme in VSC
-- :stop_sign: All Repositories Private _(I Will Make a public soon)_
+- :lock:: All Repositories Private _(I Will Make a public soon)_
 
+### :toolbox: Tech Stack 
 ![Javascript](https://img.shields.io/badge/Javascript-1c1e26?style=flat&logo=Javascript&logoColor=e95379)&nbsp;
 ![Python](https://img.shields.io/badge/Python-1c1e26?style=flat&logo=Python&logoColor=e95379)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-1c1e26?style=flat&logo=Dart&logoColor=e95379)&nbsp;
@@ -29,6 +30,6 @@
 ![Git](https://img.shields.io/badge/Git-1c1e26?style=flat&logo=Git&logoColor=e95379)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1c1e26?style=flat&logo=visual-studio-code&logoColor=e95379)&nbsp;
 
-### 
+### :chart_with_upwards_trend: GitHub Stats
 ![Ebubekir's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbubekirYucel&show_icons=true&bg_color=1c1e26&title_color=e95379&icon_color=e95379&text_color=ffffff)
 
