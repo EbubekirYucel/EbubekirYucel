@@ -3,7 +3,7 @@
 - :man_student: I am a high school student and database branch student.
 - :child::man_technologist: I met the software at a young age.
 - :seedling: I try to be an expert at Node.JS or Full Stack Developer _(Mostly Back-End and DB)_
-- I ❤️ Horizon Theme in VSC
+- :heart: Horizon Theme
 - :lock:: All Repositories Private _(I Will Make a public soon)_
 
 ### :toolbox: Tech Stack 
@@ -32,4 +32,8 @@
 
 ### :chart_with_upwards_trend: GitHub Stats
 ![Ebubekir's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbubekirYucel&show_icons=true&bg_color=1c1e26&title_color=e95379&icon_color=e95379&text_color=ffffff)
+
+### :postbox: Social
+![Instagram](https://img.shields.io/badge/@ebubekir.ycl-1c1e26?style=flat&logo=instagram&logoColor=e95379)&nbsp;
+![linkedin](https://img.shields.io/badge/EbubekirYucel-1c1e26?style=flat&logo=linkedin&logoColor=e95379)&nbsp;
 
