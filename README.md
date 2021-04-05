@@ -12,9 +12,9 @@
 ![Dart](https://img.shields.io/badge/Dart-1c1e26?style=flat&logo=Dart&logoColor=e95379)&nbsp;
 ![CSharp](https://img.shields.io/badge/CSharp-1c1e26?style=flat&logo=c-sharp&logoColor=e95379)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NodeJS-1c1e26?style=flat&logo=node.js&logoColor=e95379)&nbsp;
-![PUG](https://img.shields.io/badge/Pug-05122A?style=flat&logo=pug&logoColor=e95379)&nbsp;
 ![Express](https://img.shields.io/badge/Express-05122A?style=flat&logo=Express&logoColor=e95379)&nbsp;
 ![Nodemon](https://img.shields.io/badge/Nodemon-05122A?style=flat&logo=Nodemon&logoColor=e95379)&nbsp;
+![PUG](https://img.shields.io/badge/Pug-05122A?style=flat&logo=pug&logoColor=e95379)&nbsp;
 ![React](https://img.shields.io/badge/React-1c1e26?style=flat&logo=React&logoColor=e95379)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-1c1e26?style=flat&logo=Redux&logoColor=e95379)&nbsp;
 ![Django](https://img.shields.io/badge/Django-1c1e26?style=flat&logo=Django&logoColor=e95379)&nbsp;
@@ -29,6 +29,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1c1e26?style=flat&logo=Bootstrap&logoColor=e95379)&nbsp;
 ![Draw.io](https://img.shields.io/badge/-Draw.io%20:/-1c1e26?style=flat&logo=diagrams.net&logoColor=e95379)&nbsp;
 ![Git](https://img.shields.io/badge/Git-1c1e26?style=flat&logo=Git&logoColor=e95379)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-1c1e26?style=flat&logo=Jenkins&logoColor=e95379)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1c1e26?style=flat&logo=visual-studio-code&logoColor=e95379)&nbsp;
 
 ### :chart_with_upwards_trend: GitHub Stats
