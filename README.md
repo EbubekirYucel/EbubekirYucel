@@ -11,11 +11,12 @@
 ![Python](https://img.shields.io/badge/Python-1c1e26?style=flat&logo=Python&logoColor=e95379)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-1c1e26?style=flat&logo=Dart&logoColor=e95379)&nbsp;
 ![CSharp](https://img.shields.io/badge/CSharp-1c1e26?style=flat&logo=c-sharp&logoColor=e95379)&nbsp;
-![React](https://img.shields.io/badge/React-1c1e26?style=flat&logo=React&logoColor=e95379)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NodeJS-1c1e26?style=flat&logo=node.js&logoColor=e95379)&nbsp;
 ![PUG](https://img.shields.io/badge/Pug-05122A?style=flat&logo=pug&logoColor=e95379)&nbsp;
 ![Express](https://img.shields.io/badge/Express-05122A?style=flat&logo=Express&logoColor=e95379)&nbsp;
 ![Nodemon](https://img.shields.io/badge/Nodemon-05122A?style=flat&logo=Nodemon&logoColor=e95379)&nbsp;
+![React](https://img.shields.io/badge/React-1c1e26?style=flat&logo=React&logoColor=e95379)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-1c1e26?style=flat&logo=Redux&logoColor=e95379)&nbsp;
 ![Django](https://img.shields.io/badge/Django-1c1e26?style=flat&logo=Django&logoColor=e95379)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-1c1e26?style=flat&logo=Flutter&logoColor=e95379)&nbsp;
 ![MSSQL](https://img.shields.io/badge/MSSQL-1c1e26?style=flat&logo=microsoft-sql-server&logoColor=e95379)&nbsp;
