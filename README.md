@@ -1,41 +1,63 @@
-### 👋 Hi there 
+<h1 align="center">hey there 👋</h1>
 
-- :man_student: I am a high school student and database branch student.
-- :child::man_technologist: I met the software at a young age.
-- :seedling: I try to be an expert at Node.JS or Full Stack Developer _(Mostly Back-End and DB)_
-- :heart: Horizon Theme
-- :lock:: All Repositories Private _(I Will Make a public soon)_
+###
 
-### :toolbox: Tech Stack 
-![Javascript](https://img.shields.io/badge/Javascript-1c1e26?style=flat&logo=Javascript&logoColor=e95379)&nbsp;
-![Python](https://img.shields.io/badge/Python-1c1e26?style=flat&logo=Python&logoColor=e95379)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-1c1e26?style=flat&logo=Dart&logoColor=e95379)&nbsp;
-![CSharp](https://img.shields.io/badge/CSharp-1c1e26?style=flat&logo=c-sharp&logoColor=e95379)&nbsp;
-![NodeJS](https://img.shields.io/badge/NodeJS-1c1e26?style=flat&logo=node.js&logoColor=e95379)&nbsp;
-![Express](https://img.shields.io/badge/Express-05122A?style=flat&logo=Express&logoColor=e95379)&nbsp;
-![Nodemon](https://img.shields.io/badge/Nodemon-05122A?style=flat&logo=Nodemon&logoColor=e95379)&nbsp;
-![PUG](https://img.shields.io/badge/Pug-05122A?style=flat&logo=pug&logoColor=e95379)&nbsp;
-![React](https://img.shields.io/badge/React-1c1e26?style=flat&logo=React&logoColor=e95379)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-1c1e26?style=flat&logo=Redux&logoColor=e95379)&nbsp;
-![Django](https://img.shields.io/badge/Django-1c1e26?style=flat&logo=Django&logoColor=e95379)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-1c1e26?style=flat&logo=Flutter&logoColor=e95379)&nbsp;
-![MSSQL](https://img.shields.io/badge/MSSQL-1c1e26?style=flat&logo=microsoft-sql-server&logoColor=e95379)&nbsp;
-![MYSQL](https://img.shields.io/badge/MYSQL-1c1e26?style=flat&logo=mysql&logoColor=e95379)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-1c1e26?style=flat&logo=MongoDB&logoColor=e95379)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-1c1e26?style=flat&logo=Redis&logoColor=e95379)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-1c1e26?style=flat&logo=HTML5&logoColor=e95379)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-1c1e26?style=flat&logo=CSS3&logoColor=e95379)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-1c1e26?style=flat&logo=SASS&logoColor=e95379)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1c1e26?style=flat&logo=Bootstrap&logoColor=e95379)&nbsp;
-![Draw.io](https://img.shields.io/badge/-Draw.io%20:/-1c1e26?style=flat&logo=diagrams.net&logoColor=e95379)&nbsp;
-![Git](https://img.shields.io/badge/Git-1c1e26?style=flat&logo=Git&logoColor=e95379)&nbsp;
-![Jenkins](https://img.shields.io/badge/Jenkins-1c1e26?style=flat&logo=Jenkins&logoColor=e95379)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1c1e26?style=flat&logo=visual-studio-code&logoColor=e95379)&nbsp;
+<h3 align="left">👩‍💻  About Me</h3>
 
-### :chart_with_upwards_trend: GitHub Stats
-![Ebubekir's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbubekirYucel&show_icons=true&bg_color=1c1e26&title_color=e95379&icon_color=e95379&text_color=ffffff)
+###
 
-### :postbox: Social
-![Instagram](https://img.shields.io/badge/@ebubekir.ycl-1c1e26?style=flat&logo=instagram&logoColor=e95379)&nbsp;
-![linkedin](https://img.shields.io/badge/EbubekirYucel-1c1e26?style=flat&logo=linkedin&logoColor=e95379)&nbsp;
+<p align="left">I'm from Turkey<br><br>- 🤓 I’m student<br>- 📚 I'm currently learning Golang<br>- ⚡ In my free time I... just kidding I don't have free time.</p>
 
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="40" alt="couchdb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=EbubekirYucel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
