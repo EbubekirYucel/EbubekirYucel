@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm from Turkey<br><br>- 🤓 I’m student<br>- 📚 I'm currently learning Golang<br>- ⚡ In my free time I... just kidding I don't have free time.</p>
+<p align="left">I'm from Turkey<br><br>- 🤓 I’m student and Full Stack Developer(%60 back-end)<br>- 📚 I'm currently learning Golang<br>- ⚡ In my free time I... just kidding I don't have free time.</p>
 
 ###
 
@@ -50,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" alt="prisma logo"/>
           
 </div>
 
