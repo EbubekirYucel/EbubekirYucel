@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm from Turkey<br><br>- 🤓 I’m student and Full Stack Developer(%60 back-end)<br>- 📚 I'm currently learning Golang<br>- ⚡ In my free time I... just kidding I don't have free time.</p>
+<p align="left">I'm from Turkey<br><br>- 🤓 Full Stack Developer<br>- 📚 I'm currently learning Golang<br>- ⚡ In my free time I... just kidding I don't have free time.</p>
 
 ###
 
